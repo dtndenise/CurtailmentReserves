@@ -1,0 +1,139 @@
+-------- Resumo da verificação da rede na iteração 0 ---------
+Linha mais violada - 44 em t = 47
+Montante violado - 18.231997164946122
+Perc_violação - 1.8231997164946123
+-------------------------------------------------------------------
+-------- Resumo da verificação da rede na iteração 1 ---------
+Linha mais violada - 21 em t = 41
+Montante violado - 7.431673856885926
+Perc_violação - 0.7431673856885925
+-------------------------------------------------------------------
+-------- Resumo da verificação da rede na iteração 2 ---------
+Linha mais violada - 37 em t = 14
+Montante violado - 3.2582419706239705
+Perc_violação - 0.21721613137493137
+-------------------------------------------------------------------
+-------- Resumo da verificação da rede na iteração 3 ---------
+Linha mais violada - 32 em t = 43
+Montante violado - 3.4850113654047092
+Perc_violação - 0.18342165081077416
+-------------------------------------------------------------------
+-------- Resumo da verificação da rede na iteração 4 ---------
+Linha mais violada - 38 em t = 2
+Montante violado - 4.583673697233021
+Perc_violação - 0.3055782464822014
+-------------------------------------------------------------------
+-------- Resumo da verificação da rede na iteração 5 ---------
+Linha mais violada - 44 em t = 20
+Montante violado - 0.007396896515476925
+Perc_violação - 0.0007396896515476925
+-------------------------------------------------------------------
+======== Resultados 30b - Caso 1 (fixed res) =========
+Geração UTE: 240.0 MWh, 5.3 %
+Geração UHE: 2.532 GWh, 55.89 %
+Geração EOL: 1758.15 MWh, 38.81 %
+Cortes EOL: 1179.57 MWh, 40.15% da previsão, 16.29% da CI
+Objective Value (Operating cost): 69144.78 $
+Future Cost: 0.0 $
+Thermal Cost: 57254.4 $
+Present Cost: 69144.78 $
+Custos das reservas hidráulicas: 11890.38 $
+Reservas UHE: Total 572.565 MWh, 298.225 MWh(up), 11.78 %, 274.34 MWh(down), 10.84 %
+===========================================
+==== Indicativo de cortes pelo modelo ====
+WPP-1 | Pcut: 73.01 MW 2.81 %(CI), 5.93 %(prev), 
+WPP-2 | Pcut: 27.77 MW 2.3 %(CI), 4.61 %(prev),
+WPP-3 | Pcut: 185.47 MW 13.14 %(CI), 20.88 %(prev),
+WPP-4 | Pcut: 167.99 MW 24.0 %(CI), 41.44 %(prev),
+WPP-5 | Pcut: 100.91 MW 14.48 %(CI), 31.85 %(prev),
+WPP-6 | Pcut: 215.03 MW 14.13 %(CI), 62.25 %(prev),
+WPP-7 | Pcut: 724.97 MW 25.92 %(CI), 81.95 %(prev),
+WPP-8 | Pcut: 36.49 MW 5.89 %(CI), 56.3 %(prev),
+WPP-9 | Pcut: 827.5 MW 28.22 %(CI), 72.81 %(prev),
+Total | Pcut: 2359.14 MW
+==========================================
+----------Iteração 1 -------------
+WPP-1 | Pcut: 366.2 MW, Pcut/CI = 14.1%, β = 26.04%
+WPP-2 | Pcut: 188.8 MW, Pcut/CI = 15.6%, β = 29.08%
+WPP-3 | Pcut: 239.0 MW, Pcut/CI = 16.9%, β = 34.15%
+WPP-4 | Pcut: 345.0 MW, Pcut/CI = 49.3%, β = 18.58%
+WPP-5 | Pcut: 284.0 MW, Pcut/CI = 40.7%, β = 18.58%
+WPP-6 | Pcut: 67.2 MW, Pcut/CI = 4.4%, β = 11.92%
+WPP-7 | Pcut: 442.5 MW, Pcut/CI = 15.8%, β = 11.92%
+WPP-8 | Pcut: 5.7 MW, Pcut/CI = 0.9%, β = 11.92%
+WPP-9 | Pcut: 66.7 MW, Pcut/CI = 2.3%, β = 36.81%
+----------Iteração 2 -------------
+WPP-1 | Pcut: 11.3 MW, Pcut/CI = 0.4%, β = 27.39%
+WPP-2 | Pcut: 0.0 MW, Pcut/CI = 0.0%, β = 51.71%
+WPP-3 | Pcut: 248.7 MW, Pcut/CI = 17.6%, β = -6.34%
+WPP-4 | Pcut: 292.1 MW, Pcut/CI = 41.7%, β = 34.23%
+WPP-5 | Pcut: 203.0 MW, Pcut/CI = 29.1%, β = 34.23%
+WPP-6 | Pcut: 110.5 MW, Pcut/CI = 7.3%, β = 23.14%
+WPP-7 | Pcut: 607.4 MW, Pcut/CI = 21.7%, β = 23.14%
+WPP-8 | Pcut: 11.2 MW, Pcut/CI = 1.8%, β = 23.14%
+WPP-9 | Pcut: 875.4 MW, Pcut/CI = 29.8%, β = -22.67%
+----------Iteração 3 -------------
+WPP-1 | Pcut: 120.0 MW, Pcut/CI = 4.6%, β = 57.52%
+WPP-2 | Pcut: 46.4 MW, Pcut/CI = 3.8%, β = 26.32%
+WPP-3 | Pcut: 142.2 MW, Pcut/CI = 10.1%, β = -3.18%
+WPP-4 | Pcut: 175.1 MW, Pcut/CI = 25.0%, β = 17.92%
+WPP-5 | Pcut: 118.0 MW, Pcut/CI = 16.9%, β = 17.92%
+WPP-6 | Pcut: 209.8 MW, Pcut/CI = 13.8%, β = 12.6%
+WPP-7 | Pcut: 705.4 MW, Pcut/CI = 25.2%, β = 12.6%
+WPP-8 | Pcut: 38.4 MW, Pcut/CI = 6.2%, β = 12.6%
+WPP-9 | Pcut: 798.4 MW, Pcut/CI = 27.2%, β = 10.2%
+----------Iteração 4 -------------
+WPP-1 | Pcut: 40.4 MW, Pcut/CI = 1.6%, β = 42.48%
+WPP-2 | Pcut: 68.0 MW, Pcut/CI = 5.6%, β = -26.32%
+WPP-3 | Pcut: 174.6 MW, Pcut/CI = 12.4%, β = 3.18%
+WPP-4 | Pcut: 186.9 MW, Pcut/CI = 26.7%, β = -17.92%
+WPP-5 | Pcut: 106.5 MW, Pcut/CI = 15.3%, β = -17.92%
+WPP-6 | Pcut: 202.3 MW, Pcut/CI = 13.3%, β = -12.6%
+WPP-7 | Pcut: 734.8 MW, Pcut/CI = 26.3%, β = -12.6%
+WPP-8 | Pcut: 34.8 MW, Pcut/CI = 5.6%, β = -12.6%
+WPP-9 | Pcut: 822.5 MW, Pcut/CI = 28.0%, β = -10.2%
+----------Iteração 5 -------------
+WPP-1 | Pcut: 73.0 MW, Pcut/CI = 2.8%, β = 15.09%
+WPP-2 | Pcut: 27.8 MW, Pcut/CI = 2.3%, β = 21.97%
+WPP-3 | Pcut: 185.5 MW, Pcut/CI = 13.1%, β = 9.52%
+WPP-4 | Pcut: 168.0 MW, Pcut/CI = 24.0%, β = 47.85%
+WPP-5 | Pcut: 100.9 MW, Pcut/CI = 14.5%, β = 47.85%
+WPP-6 | Pcut: 215.0 MW, Pcut/CI = 14.1%, β = 64.26%
+WPP-7 | Pcut: 725.0 MW, Pcut/CI = 25.9%, β = 64.26%
+WPP-8 | Pcut: 36.5 MW, Pcut/CI = 5.9%, β = 64.26%
+WPP-9 | Pcut: 827.5 MW, Pcut/CI = 28.2%, β = 12.47%
+==========================================
+VERIFICADOS
+-------- Resumo da verificação da rede na iteração 7 ---------
+Linha mais violada - 44 em t = 25
+Montante violado - 0.0050973553664448445
+Perc_violação - 0.0005097355366444845
+-------------------------------------------------------------------
+========== Métricas de desempenho 30barras - Caso 1 Verificado ==============
+Corte de carga: 14.55425 MWh, 0.3213 %
+Probabilidade de corte semi-horário no dia seguinte: 18.75 %
+Geração UTE: 240.0 MWh, 5.32%
+Geração UHE: 2740.5 MWh, 60.7%
+Geração EOL: 1534.415 MWh, 35.63%
+Cortes EOL: 1179.57 MWh, 43.56% (da previsão), 16.29% (da CI)
+Diferença dos Cortes de geração eólica: 4.46 MWh, 0.38 %
+Diferença entre os despachos UHE d-1 e tempo real: 208.65 MWh, (8.2411 %)
+Uso das reservas hidráulicas: Total de 263.545 MWh (87.26% do total programado), sendo 236.1 MWh (79.17%) of Up e 27.445 MWh (10.0%) of Down
+Diferença dos custos de operação: 0.0 $, 0.0 %
+Custo da operação - Custo reservas hidráulicas: 57254.4 $
+============================================================
+
+COM PENALIZAÇÃO DOS CORTES
+========== Métricas de desempenho 30barras - Caso 1 Verificado ==============
+Corte de carga: 5.1673 MWh, 0.1141 %
+Probabilidade de corte semi-horário no dia seguinte: 12.5 %
+Geração UTE: 240.0 MWh, 5.3%
+Geração UHE: 2527.89 MWh, 55.87%
+Geração EOL: 1756.415 MWh, 39.47%
+Cortes EOL: 1101.81 MWh, 35.39% (da previsão), 15.22% (da CI)
+Diferença dos Cortes de geração eólica: -139.775 MWh, -12.69 %
+Diferença entre os despachos UHE d-1 e tempo real: 73.805 MWh, (3.0074 %)
+Uso das reservas hidráulicas: Total de 338.88 MWh (75.96% do total programado), sendo 206.345 MWh (63.03%) of Up e 132.54 MWh (33.95%) of Down
+Diferença dos custos de operação: -643320.77 $, -1123.62 %
+Custo da operação - Custo reservas hidráulicas: -680452.17 $
+============================================================
