@@ -1,0 +1,46 @@
+COM DESVIO PADRÃO (MÉDIA)
+-------- Resumo da verificação da rede na iteração 10 ---------
+Linha mais violada - 5969 em t = 42
+Montante violado - 1.7999999999998693
+Perc_violação - 0.00937499999999932
+-------------------------------------------------------------------
+34490.138718 seconds (228.79 M allocations: 2.708 TiB, 1.98% gc time)
+======== Resultados SIN - Cenário 4 =========
+Geração UTE: 201996.46 MWh, 14.99 %
+Geração UHE: 863.54 GWh, 64.08 %
+Geração EOL: 282013.535 MWh, 21.0 %
+Geração UFV: 0.0 MWh, 0.0 %
+Cortes EOL: 9645.085 MWh, 3.31% da previsão, 2.36% da CI
+Cortes UFV: 15773.405 MWh, 100.0% da previsão, 34.42% da CI
+Objective Value (Operating cost): 1.18392919255534e12 $
+Future Cost: 1.18386103383257e12 $
+Thermal Cost: 3.947087665e7 $
+Present Cost: 6.815872278e7 $
+Custos das reservas hidráulicas: 2.868784612e7 $
+Reservas UHE: Total 90711.39 MWh, 55246.6 MWh(up), 6.4 %, 35464.79 MWh(down), 4.11 %
+===========================================
+
+
+CASO VERIFOCADP
+-------- Resumo da verificação da rede na iteração 16 -  Caso Verified ---------
+Linha mais violada - 5967 em t = 45
+Montante violado - 1.079999999999842
+Perc_violação - 0.005624999999999177
+-------------------------------------------------------------------
+35408.621229 seconds (535.48 M allocations: 4.194 TiB, 6.44% gc time, 0.00% compilation time)
+========== Métricas de desempenho SIN - Caso 4 Dados Verificados ==============
+Corte de carga: 271.725 MWh, 0.0202 %
+Probabilidade de corte semi-horário no dia seguinte: 10.42 %
+Geração UTE: 201996.46 MWh, 15.02%
+Geração UHE: 855.652105 GWh, 63.62%
+Geração EOL: 272855.545 MWh, 20.0%
+Geração UFV: 14518.795 MWh, 1.0%
+Cortes EOL: 15553.815 MWh, 5.39% (da geração ver), 3.81% (da CI)
+Cortes UFV: 54.62 MWh, 0.37% (da geração ver), 0.12% (da CI)
+Diferença dos Cortes de geração eólica: 5908.73 MWh, 61.26 %
+Diferença dos Cortes de geração solar: -15718.785 MWh, -99.65 %
+Diferença entre os despachos UHE d-1 e tempo real: -7888.405 MWh, (-1.0 %)
+Uso das reservas hidráulicas: Total de 41449.83 MWh, sendo 16780.715 MWh (30.37%) of Up e 24669.12 MWh (69.56%) of Down
+Diferença dos custos de operação: 3.1216867638e8 $, 0.03 %
+Custo da operação - Custo reservas hidráulicas: 1.1842126733856e12$
+============================================================
