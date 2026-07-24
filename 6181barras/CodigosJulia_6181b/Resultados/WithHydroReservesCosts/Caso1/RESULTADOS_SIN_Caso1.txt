@@ -1,0 +1,45 @@
+-------- Resumo da verificação da rede na iteração 10---------
+Linha mais violada - 5969 em t = 41
+Montante violado - 1.7999999999998693
+Perc_violação - 0.00937499999999932
+-------------------------------------------------------------------
+32399.218145 seconds (231.48 M allocations: 2.708 TiB, 3.55% gc time)
+======== Resultados SIN - Cenário 1 =========
+Geração UTE: 200028.78 MWh, 14.84 %
+Geração UHE: 862.95 GWh, 64.04 %
+Geração EOL: 284573.185 MWh, 21.0 %
+Geração UFV: 0.0 MWh, 0.0 %
+Cortes EOL: 7085.44 MWh, 2.43% da previsão, 1.74% da CI
+Cortes UFV: 15773.405 MWh, 100.0% da previsão, 34.42% da CI
+Objective Value (Operating cost): 1.18394965543703e12 $
+Future Cost: 1.18387161824589e12 $
+Thermal Cost: 3.867416976e7 $
+Present Cost: 7.803719114e7 $
+Custos das reservas hidráulicas: 3.936302138e7 $
+Reservas UHE: Total 126665.565 MWh, 73439.41 MWh(up), 8.51 %, 53226.155 MWh(down), 6.17 %
+===========================================
+
+
+CASO VERIFICADO - COM PENALIDADE DO CORTE
+-------- Resumo da verificação da rede na iteração 16 -  Caso Verified ---------
+Linha mais violada - 5967 em t = 45
+Montante violado - 1.079999999999842
+Perc_violação - 0.005624999999999177
+-------------------------------------------------------------------
+33082.657220 seconds (569.47 M allocations: 4.196 TiB, 9.41% gc time, 0.00% compilation time)
+========== Métricas de desempenho SIN - Caso 1 Dados Verificados ==============
+Corte de carga: 11484.06 MWh, 0.85 %
+Probabilidade de corte semi-horário no dia seguinte: 39.58 %
+Geração UTE: 200028.78 MWh, 15.0%
+Geração UHE: 862.9485450000001 GWh, 64.7%
+Geração EOL: 259713.14 MWh, 19.0%
+Geração UFV: 11120.105 MWh, 1.0%
+Cortes EOL: 28696.22 MWh, 9.95% (da geração ver), 7.03% (da CI)
+Cortes UFV: 3453.305 MWh, 23.7% (da geração ver), 7.54% (da CI)
+Diferença dos Cortes de geração eólica: 21610.78 MWh, 305.0 %
+Diferença dos Cortes de geração solar: -12320.095 MWh, -78.11 %
+Diferença entre os despachos UHE d-1 e tempo real: 0.0 MWh, (0.0 %)
+Uso das reservas hidráulicas: Total de 0.0 MWh, sendo 0.0 MWh (NaN%) of Up e 0.0 MWh (NaN%) of Down
+Diferença dos custos de operação: 6.0362748446e8 $, 0.05 %
+Custo da operação - Custo reservas hidráulicas: 1.18455328292149e12$
+============================================================
