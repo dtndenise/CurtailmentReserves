@@ -1,0 +1,53 @@
+-------- Resumo da verificação da rede na iteração 10 ----------
+Linha mais violada - 5969 em t = 41
+Montante violado - 1.799999999999983
+Perc_violação - 0.009374999999999911
+-------------------------------------------------------------------
+28675.564809 seconds (227.59 M allocations: 2.708 TiB, 6.22% gc time)
+======== Resultados SIN - Cenário 2 (fixed reserves updated, solar and curtail) =========
+Geração UTE: 200791.36 MWh, 14.9 %
+Geração UHE: 869.5 GWh, 64.52 %
+Geração EOL: 277258.425 MWh, 21.0 %
+Geração UFV: 0.0 MWh, 0.0 %
+Cortes EOL: 14400.2 MWh, 4.94% da previsão, 3.53% da CI
+Cortes UFV: 15773.405 MWh, 100.0% da previsão, 34.42% da CI
+Objective Value (Operating cost): 1.18395420479838e12 $
+Future Cost: 1.18386583386743e12 $
+Thermal Cost: 3.857353928e7 $
+Present Cost: 8.837093095e7 $
+Custos das reservas hidráulicas: 4.979739167e7 $
+Reservas UHE: Total 133871.685 MWh, 77042.47 MWh(up), 8.86 %, 56829.215 MWh(down), 6.54 %
+===========================================
+
+CASO VERIFICADO COM PENALIZAÇÃO DO CORTE
+===========================================================================
+======================   Fim da resolução do MILP na iteração 15 - Caso Verified =======================
+===========================================================================
+Inicio verificação da rede na iteração 15 -  Caso Verified
+----------------------------------------------------------------
+Verificação da rede em t = 10
+Verificação da rede em t = 20
+Verificação da rede em t = 30
+Verificação da rede em t = 40
+-------- Resumo da verificação da rede na iteração 15 -  Caso Verified ---------
+Linha mais violada - 5967 em t = 45
+Montante violado - 1.0799999999996999
+Perc_violação - 0.005624999999998437
+-------------------------------------------------------------------
+32611.607230 seconds (503.21 M allocations: 3.947 TiB, 12.55% gc time, 0.01% compilation time)
+========== Métricas de desempenho SIN - Caso 2 Dados Verificados ==============
+Corte de carga: 0.0 MWh, 0.0 %
+Probabilidade de corte semi-horário no dia seguinte: 0.0 %
+Geração UTE: 200791.36 MWh, 14.93%
+Geração UHE: 852.806645 GWh, 63.39%
+Geração EOL: 277547.2 MWh, 21.0%
+Geração UFV: 14149.42 MWh, 1.0%
+Cortes EOL: 10862.155 MWh, 3.77% (da geração ver), 2.66% (da CI)
+Cortes UFV: 423.995 MWh, 2.91% (da geração ver), 0.93% (da CI)
+Diferença dos Cortes de geração eólica: -3538.04 MWh, -24.57 %
+Diferença dos Cortes de geração solar: -15349.41 MWh, -97.31 %
+Diferença entre os despachos UHE d-1 e tempo real: -16694.075 MWh, (-2.0 %)
+Uso das reservas hidráulicas: Total de 61664.12 MWh, sendo 22485.02 MWh (29.19%) of Up e 39179.1 MWh (68.94%) of Down
+Diferença dos custos de operação: 2.2572300914e8 $, 0.02 %
+Custo da operação - Custo reservas hidráulicas: 1.18413013041585e12$
+============================================================
