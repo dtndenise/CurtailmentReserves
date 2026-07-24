@@ -1,0 +1,77 @@
+-------- Resumo da verificação da rede na iteração 10 ---------
+Linha mais violada - 5969 em t = 41
+Montante violado - 1.799999999999926
+Perc_violação - 0.009374999999999615
+-------------------------------------------------------------------
+88330.252274 seconds (228.13 M allocations: 2.708 TiB, 0.71% gc time)
+======== Resultados SIN - Cenário 4 =========
+Geração UTE: 201152.965 MWh, 14.93 %
+Geração UHE: 861.845 GWh, 63.96 %
+Geração EOL: 284553.585 MWh, 21.0 %
+Geração UFV: 0.0 MWh, 0.0 %
+Cortes EOL: 7105.035 MWh, 2.44% da previsão, 1.74% da CI
+Cortes UFV: 15773.405 MWh, 100.0% da previsão, 34.42% da CI
+Objective Value (Operating cost): 1.18390067607643e12 $
+Future Cost: 1.18386195668407e12 $
+Thermal Cost: 3.871939237e7 $
+Present Cost: 3.871939237e7 $
+Custos das reservas hidráulicas: 0.0 $
+Reservas UHE: Total 207082.735 MWh, 101398.895 MWh(up), 11.77 %, 105683.84 MWh(down), 12.26 %
+===========================================
+
+===========================================================================
+======================   Fim da resolução do MILP na iteração 15 - Caso Verified =======================
+===========================================================================
+
+Inicio verificação da rede na iteração 15 -  Caso Verified
+----------------------------------------------------------------
+Verificação da rede em t = 10
+Verificação da rede em t = 20
+Verificação da rede em t = 30
+Verificação da rede em t = 40
+-------- Resumo da verificação da rede na iteração 15 -  Caso Verified ---------
+Linha mais violada - 5967 em t = 45
+Montante violado - 1.0799999999996999
+Perc_violação - 0.005624999999998437
+-------------------------------------------------------------------
+33136.630236 seconds (503.85 M allocations: 3.947 TiB, 6.83% gc time, 0.00% compilation time)
+========== Métricas de desempenho SIN - Caso 4 Dados Verificados ==============
+Corte de carga: 75.145 MWh, 0.00559 %
+Probabilidade de corte semi-horário no dia seguinte: 2.08 %
+Geração UTE: 202957.74 MWh, 15.09%
+Geração UHE: 890.116905 GWh, 66.17%
+Geração EOL: 243934.245 MWh, 18.0%
+Geração UFV: 8210.595 MWh, 1.0%
+Cortes EOL: 44475.115 MWh, 15.42% (da geração ver), 10.9% (da CI)
+Cortes UFV: 6362.82 MWh, 43.66% (da geração ver), 13.88% (da CI)
+Diferença dos Cortes de geração eólica: 37397.835 MWh, 528.42 %
+Diferença dos Cortes de geração solar: -9410.585 MWh, -59.66 %
+Diferença entre os despachos UHE d-1 e tempo real: 30105.48 MWh, (4.0 %)
+Uso das reservas hidráulicas: Total de 107638.835 MWh, sendo 68872.155 MWh (69.8%) of Up e 38766.675 MWh (37.13%) of Down
+Diferença dos custos de operação: 0.0 $, 0.0 %
+Custo da operação - Custo reservas hidráulicas: 1.18389899401761e12 $
+============================================================
+
+COM PENALIZAÇÃO DOS CORTES
+-------- Resumo da verificação da rede na iteração 15 -  Caso Verified ---------
+Linha mais violada - 5967 em t = 45
+Montante violado - 1.079999999999643
+Perc_violação - 0.005624999999998141
+-------------------------------------------------------------------
+28685.952363 seconds (503.93 M allocations: 3.947 TiB, 6.90% gc time, 0.00% compilation time)
+========== Métricas de desempenho SIN - Caso 4 Dados Verificados ==============
+Corte de carga: 0.0 MWh, 0.0 %
+Probabilidade de corte semi-horário no dia seguinte: 0.0 %
+Geração UTE: 201152.965 MWh, 14.95%
+Geração UHE: 849.693445 GWh, 63.16%
+Geração EOL: 279890.325 MWh, 21.0%
+Geração UFV: 14557.89 MWh, 1.0%
+Cortes EOL: 8519.035 MWh, 2.95% (da geração ver), 2.09% (da CI)
+Cortes UFV: 15.525 MWh, 0.11% (da geração ver), 0.03% (da CI)
+Diferença dos Cortes de geração eólica: 1413.995 MWh, 19.9 %
+Diferença dos Cortes de geração solar: -15757.88 MWh, -99.9 %
+Diferença entre os despachos UHE d-1 e tempo real: -12150.505 MWh, (-1.0 %)
+Uso das reservas hidráulicas: Total de 112253.185 MWh (0.54206926038 of scheduled), sendo 50051.34 MWh (49.36%) of Up e 62201.845 MWh (58.86%) of Down
+Diferença dos custos de operação: 1.70691168e6 $, 0.0 %
+Custo da operação - Custo reservas hidráulicas: 1.18390238298812e12 $
+============================================================
