@@ -1,0 +1,202 @@
+ CodUsina  ,  Usina         ,  Sistema      ,CAG
+1,  CAMARGOS      ,  1 - Sudeste  ,NAO
+2,  ITUTINGA      ,  1 - Sudeste  ,NAO
+4,  FUNIL-GRANDE  ,  1 - Sudeste  ,NAO
+6,  FURNAS        ,  1 - Sudeste  ,NAO
+7,  M. DE MORAES  ,  1 - Sudeste  ,NAO
+8,  ESTREITO      ,  1 - Sudeste  ,SIM
+9,  JAGUARA       ,  1 - Sudeste  ,NAO
+10,  IGARAPAVA     ,  1 - Sudeste  ,NAO
+11,  VOLTA GRANDE  ,  1 - Sudeste  ,NAO
+12,  P. COLOMBIA   ,  1 - Sudeste  ,NAO
+14,  CACONDE       ,  1 - Sudeste  ,NAO
+15,  E. DA CUNHA   ,  1 - Sudeste  ,NAO
+16,  A.S.OLIVEIRA  ,  1 - Sudeste  ,NAO
+17,  MARIMBONDO    ,  1 - Sudeste  ,NAO
+18,  A. VERMELHA   ,  1 - Sudeste  ,SIM
+20,  BATALHA       ,  1 - Sudeste  ,NAO
+21,  SERRA FACAO   ,  1 - Sudeste  ,NAO
+22,  BOCAINA       ,  1 - Sudeste  ,NAO
+24,  EMBORCACAO    ,  1 - Sudeste  ,SIM
+25,  NOVA PONTE    ,  1 - Sudeste  ,SIM
+26,  MIRANDA       ,  1 - Sudeste  ,NAO
+27,  CAPIM BRANC1  ,  1 - Sudeste  ,NAO
+28,  CAPIM BRANC2  ,  1 - Sudeste  ,NAO
+29,  CORUMBA IV    ,  1 - Sudeste  ,NAO
+30,  CORUMBA I     ,  1 - Sudeste  ,NAO
+31,  ITUMBIARA     ,  1 - Sudeste  ,SIM
+32,  CACH.DOURADA  ,  1 - Sudeste  ,NAO
+33,  SAO SIMAO     ,  1 - Sudeste  ,NAO
+34,  I. SOLTEIRA   ,  1 - Sudeste  ,NAO
+37,  BARRA BONITA  ,  1 - Sudeste  ,NAO
+38,  A.S. LIMA     ,  1 - Sudeste  ,NAO
+39,  IBITINGA      ,  1 - Sudeste  ,NAO
+40,  PROMISSAO     ,  1 - Sudeste  ,NAO
+42,  NAVANHANDAVA  ,  1 - Sudeste  ,NAO
+43,  TRES IRMAOS   ,  1 - Sudeste  ,NAO
+44,  I. SOLT. EQV  ,  1 - Sudeste  ,NAO
+45,  JUPIA         ,  1 - Sudeste  ,NAO
+46,  P. PRIMAVERA  ,  1 - Sudeste  ,NAO
+47,  A.A. LAYDNER  ,  1 - Sudeste  ,NAO
+48,  PIRAJU        ,  1 - Sudeste  ,NAO
+49,  CHAVANTES     ,  1 - Sudeste  ,NAO
+50,  L.N. GARCEZ   ,  1 - Sudeste  ,NAO
+51,  CANOAS II     ,  1 - Sudeste  ,NAO
+52,  CANOAS I      ,  1 - Sudeste  ,NAO
+54,  STA BRANCA T  ,  2 - Sul      ,NAO
+57,  MAUA          ,  2 - Sul      ,NAO
+58,  SAO JERONIMO  ,  2 - Sul      ,NAO
+61,  CAPIVARA      ,  1 - Sudeste  ,SIM
+62,  TAQUARUCU     ,  1 - Sudeste  ,NAO
+63,  ROSANA        ,  1 - Sudeste  ,NAO
+66,  ITAIPU        ,  1 - Sudeste  ,NAO
+71,  STA CLARA PR  ,  2 - Sul      ,NAO
+72,  FUNDAO        ,  2 - Sul      ,NAO
+73,  JORDAO        ,  2 - Sul      ,NAO
+74,  G.B. MUNHOZ   ,  2 - Sul      ,SIM
+75,  S GDE CHOPIM  ,  2 - Sul      ,NAO
+76,  SEGREDO       ,  2 - Sul      ,SIM
+77,  SLT.SANTIAGO  ,  2 - Sul      ,SIM
+78,  SALTO OSORIO  ,  2 - Sul      ,SIM
+80,  SAO JOAO      ,  2 - Sul      ,NAO
+81,  CACHOEIRINHA  ,  2 - Sul      ,NAO
+82,  SALTO CAXIAS  ,  2 - Sul      ,NAO
+83,  BAIXO IGUACU  ,  2 - Sul      ,NAO
+85,  PAI QUERE     ,  2 - Sul      ,NAO
+86,  BARRA GRANDE  ,  2 - Sul      ,SIM
+88,  SAO ROQUE     ,  2 - Sul      ,NAO
+89,  GARIBALDI     ,  2 - Sul      ,NAO
+90,  CAMPOS NOVOS  ,  2 - Sul      ,SIM
+91,  MACHADINHO    ,  2 - Sul      ,SIM
+92,  ITA           ,  2 - Sul      ,SIM
+93,  PASSO FUNDO   ,  2 - Sul      ,SIM
+94,  MONJOLINHO    ,  2 - Sul      ,NAO
+95,  QUEBRA QUEIX  ,  2 - Sul      ,NAO
+97,  CASTRO ALVES  ,  2 - Sul      ,NAO
+98,  MONTE CLARO   ,  2 - Sul      ,NAO
+99,  14 DE JULHO   ,  2 - Sul      ,NAO
+101,  SAO JOSE      ,  2 - Sul      ,NAO
+102,  PASSO S JOAO  ,  2 - Sul      ,NAO
+103,  FOZ CHAPECO   ,  2 - Sul      ,SIM
+105,  PONTE NOVA    ,  1 - Sudeste  ,NAO
+107,  EDGARD SOUZA  ,  1 - Sudeste  ,NAO
+108,  TRAICAO       ,  1 - Sudeste  ,NAO
+109,  PEDREIRA      ,  1 - Sudeste  ,NAO
+110,  ERNESTINA     ,  2 - Sul      ,NAO
+111,  PASSO REAL    ,  2 - Sul      ,NAO
+112,  JACUI         ,  2 - Sul      ,NAO
+113,  ITAUBA        ,  2 - Sul      ,NAO
+114,  D. FRANCISCA  ,  2 - Sul      ,NAO
+115,  G.P. SOUZA    ,  2 - Sul      ,NAO
+116,  PEDRAS        ,  1 - Sudeste  ,NAO
+117,  GUARAPIRANGA  ,  1 - Sudeste  ,NAO
+118,  BILLINGS      ,  1 - Sudeste  ,NAO
+119,  HENRY BORDEN  ,  1 - Sudeste  ,NAO
+120,  JAGUARI       ,  1 - Sudeste  ,NAO
+121,  PARAIBUNA     ,  1 - Sudeste  ,NAO
+122,  SANTA BRANCA  ,  1 - Sudeste  ,NAO
+123,  FUNIL         ,  1 - Sudeste  ,NAO
+124,  LAJES         ,  1 - Sudeste  ,NAO
+125,  STA CECILIA   ,  1 - Sudeste  ,NAO
+126,  PICADA        ,  1 - Sudeste  ,NAO
+127,  SOBRAGI       ,  1 - Sudeste  ,NAO
+128,  ANTA          ,  1 - Sudeste  ,NAO
+129,  SIMPLICIO     ,  1 - Sudeste  ,NAO
+130,  ILHA POMBOS   ,  1 - Sudeste  ,NAO
+131,  NILO PECANHA  ,  1 - Sudeste  ,NAO
+132,  FONTES        ,  1 - Sudeste  ,NAO
+133,  P. PASSOS     ,  1 - Sudeste  ,NAO
+134,  SALTO GRANDE  ,  1 - Sudeste  ,NAO
+135,  P. ESTRELA    ,  1 - Sudeste  ,NAO
+138,  BAU I         ,  1 - Sudeste  ,NAO
+139,  CANDONGA      ,  1 - Sudeste  ,NAO
+141,  BAGUARI       ,  1 - Sudeste  ,NAO
+143,  AIMORES       ,  1 - Sudeste  ,NAO
+144,  MASCARENHAS   ,  1 - Sudeste  ,NAO
+148,  IRAPE         ,  1 - Sudeste  ,NAO
+149,  MURTA         ,  1 - Sudeste  ,NAO
+154,  ITAPEBI       ,  3 - Nordeste ,NAO
+155,  RETIRO BAIXO  ,  1 - Sudeste  ,NAO
+156,  TRES MARIAS   ,  1 - Sudeste  ,NAO
+162,  QUEIMADO      ,  1 - Sudeste  ,NAO
+169,  SOBRADINHO    ,  3 - Nordeste ,NAO
+172,  ITAPARICA     ,  3 - Nordeste ,NAO
+173,  MOXOTO        ,  3 - Nordeste ,NAO
+174,  P.AFONSO 123  ,  3 - Nordeste ,NAO
+175,  P.AFONSO 4    ,  3 - Nordeste ,NAO
+176,  COMP PAF-MOX  ,  3 - Nordeste ,NAO
+178,  XINGO         ,  3 - Nordeste ,NAO
+180,  TOCOS         ,  1 - Sudeste  ,NAO
+181,  SANTANA       ,  1 - Sudeste  ,NAO
+182,  VIGARIO       ,  1 - Sudeste  ,NAO
+183,  FONTES A      ,  1 - Sudeste  ,NAO
+184,  FONTES BC     ,  1 - Sudeste  ,NAO
+186,  ITAOCARA I    ,  1 - Sudeste  ,NAO
+189,  P. CAVALO     ,  3 - Nordeste ,NAO
+190,  B. ESPERANCA  ,  3 - Nordeste ,NAO
+192,  GUILMAN-AMOR  ,  1 - Sudeste  ,NAO
+193,  SA CARVALHO   ,  1 - Sudeste  ,NAO
+194,  TRAIRA II     ,  1 - Sudeste  ,NAO
+195,  JAURU         ,  1 - Sudeste  ,NAO
+196,  GUAPORE       ,  1 - Sudeste  ,NAO
+203,  CORUMBA III   ,  1 - Sudeste  ,NAO
+204,  CACH.CALDEIR  ,  4 - Norte    ,NAO
+215,  SALTO PILAO   ,  2 - Sul      ,NAO
+216,  CUBATAO       ,  2 - Sul      ,NAO
+217,  ROSAL         ,  1 - Sudeste  ,NAO
+225,  SLT APIACAS   ,  1 - Sudeste  ,NAO
+227,  SINOP         ,  1 - Sudeste  ,NAO
+228,  COLIDER       ,  1 - Sudeste  ,NAO
+229,  TELES PIRES   ,  1 - Sudeste  ,NAO
+230,  SAO MANOEL    ,  1 - Sudeste  ,NAO
+241,  SLT VERDINHO  ,  1 - Sudeste  ,NAO
+249,  OURINHOS      ,  1 - Sudeste  ,NAO
+251,  SERRA MESA    ,  1 - Sudeste  ,NAO
+252,  CANA BRAVA    ,  1 - Sudeste  ,NAO
+253,  SAO SALVADOR  ,  1 - Sudeste  ,NAO
+257,  PEIXE ANGIC   ,  1 - Sudeste  ,SIM
+261,  LAJEADO       ,  1 - Sudeste  ,SIM
+262,  SALTO         ,  1 - Sudeste  ,NAO
+267,  ESTREITO TOC  ,  4 - Norte    ,NAO
+268,  S. QUEBRADA   ,  4 - Norte    ,NAO
+269,  COUTO MAGALH  ,  1 - Sudeste  ,NAO
+272,  CURUA-UNA     ,  4 - Norte    ,NAO
+273,  SANTA ISABEL  ,  4 - Norte    ,NAO
+275,  TUCURUI       ,  4 - Norte    ,SIM
+276,  RONDON II     ,  1 - Sudeste  ,NAO
+277,  BALBINA       ,  4 - Norte    ,NAO
+278,  MANSO         ,  1 - Sudeste  ,NAO
+279,  SAMUEL        ,  1 - Sudeste  ,NAO
+280,  COARACY NUNE  ,  4 - Norte    ,NAO
+281,  PONTE PEDRA   ,  1 - Sudeste  ,NAO
+282,  OLHO DAGUA    ,  1 - Sudeste  ,NAO
+283,  STA CLARA MG  ,  1 - Sudeste  ,NAO
+284,  FERREIRA GOM  ,  4 - Norte    ,NAO
+285,  JIRAU         ,  1 - Sudeste  ,NAO
+286,  STO ANT JARI  ,  4 - Norte    ,NAO
+287,  STO ANTONIO   ,  1 - Sudeste  ,NAO
+288,  BELO MONTE    ,  4 - Norte    ,NAO
+289,  ITUMIRIM      ,  1 - Sudeste  ,NAO
+290,  ESPORA        ,  1 - Sudeste  ,NAO
+291,  FICT.SERRA M  ,  4 - Norte    ,NAO
+292,  FICT.CANA BR  ,  4 - Norte    ,NAO
+294,  FICT.QUEIMAD  ,  3 - Nordeste ,NAO
+295,  FICT.TRES MA  ,  3 - Nordeste ,NAO
+298,  FICT.IRAPE    ,  3 - Nordeste ,NAO
+299,  FICT.COUTO M  ,  4 - Norte    ,NAO
+301,  FICT.SAO JER  ,  1 - Sudeste  ,NAO
+302,  FICT.LAJEADO  ,  4 - Norte    ,NAO
+303,  FICT.PEIXE A  ,  4 - Norte    ,NAO
+304,  ITIQUIRA I    ,  1 - Sudeste  ,NAO
+305,  ITIQUIRA II   ,  1 - Sudeste  ,NAO
+306,  FICT.SAO SAL  ,  4 - Norte    ,NAO
+307,  FICT.MURTA    ,  3 - Nordeste ,NAO
+308,  FICT.RETIRO   ,  3 - Nordeste ,NAO
+310,  DARDANELOS    ,  1 - Sudeste  ,NAO
+311,  CACU          ,  1 - Sudeste  ,NAO
+312,  B. COQUEIROS  ,  1 - Sudeste  ,NAO
+313,  ITAGUACU      ,  1 - Sudeste  ,NAO
+314,  PIMENTAL      ,  4 - Norte    ,NAO
+315,  FOZ R. CLARO  ,  1 - Sudeste  ,NAO
+318,  FICT.STA BRA  ,  1 - Sudeste  ,NAO
+319,  FICT.MAUA     ,  1 - Sudeste  ,NAO
